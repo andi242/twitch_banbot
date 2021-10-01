@@ -1,0 +1,8 @@
+{
+    "blockers": [
+        "put account names to block in here"
+    ],
+    "channels": [
+        "put channels to interact with here"
+    ]
+}

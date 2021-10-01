@@ -1,0 +1,21 @@
+{
+  "name": "tb_autoblocker",
+  "version": "1.0.0",
+  "description": "This bot blocks follower according to a list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andi242/twitch_banbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-stamp": "^3.0.3",
+    "dotenv": "^10.0.0",
+    "sleep": "^6.3.0",
+    "tmi.js": "^1.8.5"
+  }
+}

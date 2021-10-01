@@ -1,0 +1,9 @@
+version: "3.9"
+
+# just a very basic compose to get you started...
+
+services:
+  bot:
+    image: imagename
+    container_name: containername
+    restart: unless-stopped
