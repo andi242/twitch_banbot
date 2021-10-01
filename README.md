@@ -1,6 +1,9 @@
 # twitch_banbot
 
-This is just a simple bot joining configured channels and reacting to commands.
+This is just a simple bot joining configured channels and reacting to commands.  
+If you just want to block accounts for your personal channel, it is recommended to use ComanderRoot https://twitch-tools.rootonline.de/blocklist_manager.php.
+
+This bot does quite the same, but for several channels aaS.
 
 ## prereq
 
